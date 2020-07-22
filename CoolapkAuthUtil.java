@@ -1,6 +1,3 @@
-package io.github.lz233.meizugravity.utils;
-
-import android.util.Log;
 
 import org.apache.commons.codec.binary.Base64;
 import org.apache.commons.codec.digest.DigestUtils;
